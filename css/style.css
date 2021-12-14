@@ -1,0 +1,14 @@
+.container-fluid {
+    padding-top: 100px;
+}
+
+.container {
+    height: 650px;
+}
+
+.button-style {
+    background-color: red;
+    padding: 5px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
