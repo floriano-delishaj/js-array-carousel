@@ -1,14 +1,29 @@
-.container-fluid {
-    padding-top: 100px;
+.container:first-child {
+    height: 700px;
 }
-
-.container {
-    height: 650px;
+.container-fluid {
+    height: 100vh;
 }
 
 .button-style {
-    background-color: red;
+    background-color: #f0466f;
+    color:#fff;
+    font-size: 18px;
     padding: 5px 10px;
     border-radius: 10px;
     cursor: pointer;
+}
+
+.bg-dark-blue {
+    background-color: #083b4c;
+    color: #fff;
+}
+
+.border-yellow {
+    border: solid #ffd166 1px;
+    border-radius: 10px;
+}
+
+hr {
+    background-color:#ffd166
 }

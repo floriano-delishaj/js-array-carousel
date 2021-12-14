@@ -1,9 +1,9 @@
-const arrayTitle = ['Title 1', 'Title 2', 'Title 3', 'Title 4'];
+const arrayTitle = ['Spring', 'Lake', 'Road', 'Summer'];
 const arrayParagraphs = [
-    'Lorem 1',
-    'Lorem 2',
-    'Lorem 3',
-    'Lorem 4'
+    'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias vero delectus provident dicta mollitia ipsum ad corrupti, assumenda eum repudiandae, soluta recusandae quae. Molestias dolorem minima magni consequatur dignissimos tenetur.',
+    'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo, ut tempore qui id esse unde cupiditate perferendis architecto delectus animi excepturi vitae sed, reiciendis voluptates dolore perspiciatis minus temporibus voluptate?',
+    'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore ipsam blanditiis dolor perspiciatis, natus aliquid quaerat quia dolore iure, aspernatur quasi animi voluptate? Dicta aut adipisci cum, autem nobis quam?',
+    'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id rerum voluptatum fugiat, sequi, vitae saepe maiores perspiciatis nesciunt veritatis asperiores reprehenderit cumque quibusdam adipisci distinctio eius aliquid quam. In, culpa?'
 ];
 const arrayImages = [
     './img/img-1.jpg',
